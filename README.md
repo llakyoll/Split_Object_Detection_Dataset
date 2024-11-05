@@ -23,6 +23,11 @@ Splitter Alpha is a Python application designed to separate datasets into traini
 
 
 **How to Use**
+Firstly your data must be like that:
+
+![Ekran görüntüsü 2024-11-05 170552](https://github.com/user-attachments/assets/1efff765-80de-4e48-b3c9-b1f7fcc9d626)
+
+(Photos can be .jpg, .jpeg, .png. Datas can be .txt or .xml )
 
 Run the Application:
 
