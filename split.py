@@ -24,6 +24,7 @@ from tkinter import filedialog
 import random
 import shutil
 from tkinter import messagebox
+import sys
 
 IMAGE = None
 DATA = None
@@ -115,6 +116,17 @@ class RatioSlider(Frame):
         # Call the callback function if it is defined, passing the updated ratios
         if self.callback:
             self.callback(self.train_ratio, self.valid_ratio, self.test_ratio)
+
+
+def resource_path(relative_path):
+    try:
+        # PyInstaller'da çalışırken geçici klasörü kullan
+        base_path = sys._MEIPASS
+    except AttributeError:
+        # Normal çalışırken proje klasörünü kullan
+        base_path = os.path.abspath(".")
+
+    return os.path.join(base_path, relative_path)
 
 
 def browse_files():
@@ -349,7 +361,7 @@ def copy_images():
 
 # Create a new Tkinter window
 window = Tk()
-icon = "dist/logo.ico"  # Icon path
+icon = resource_path("logo.ico")  # Icon path
 window.iconbitmap(icon)  # Add icon to window
 window.title('Splitter Alpha')  # Set the window title
 window.geometry("640x480")  # Set the window size

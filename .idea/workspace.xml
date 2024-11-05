@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a7769c8-c5c9-4b84-b9b2-e6acf2e03755" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Split_Images.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/split/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/split/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/split/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/split/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/split/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/split/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/split/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/split/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/split/split.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/split/split.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/split/warn-split.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/split/warn-split.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/split/xref-split.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/split/xref-split.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/split.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/split.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/split.py" beforeDir="false" afterPath="$PROJECT_DIR$/split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/split.spec" beforeDir="false" afterPath="$PROJECT_DIR$/split.spec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +30,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -39,22 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.aa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.popup.executor&quot;: &quot;Run&quot;,
-    &quot;Python.slider.executor&quot;: &quot;Run&quot;,
-    &quot;Python.split.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tkSliderWidget.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Python/Split_Images_v1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.aa.executor": "Run",
+    "Python.popup.executor": "Run",
+    "Python.slider.executor": "Run",
+    "Python.split.executor": "Run",
+    "Python.tkSliderWidget.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev__branch",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/pomas/Documents/GitHub/Split_Object_Detection_Dataset"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pomas\Documents\GitHub\Split_Object_Detection_Dataset\images" />
       <recent name="C:\Python\Split_Images_v1" />
       <recent name="C:\Python\Split_Images" />
     </key>
@@ -76,5 +84,28 @@
       <updated>1730379736123</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev_branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

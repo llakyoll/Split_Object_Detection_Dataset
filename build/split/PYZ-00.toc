@@ -1,4 +1,4 @@
-('C:\\Python\\Split_Images_v1\\build\\split\\PYZ-00.pyz',
+('C:\\Users\\pomas\\Documents\\GitHub\\Split_Object_Detection_Dataset\\build\\split\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\pomas\\anaconda3\\envs\\split_Images\\Lib\\_compat_pickle.py',
    'PYMODULE'),
