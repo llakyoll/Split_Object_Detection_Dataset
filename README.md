@@ -1,6 +1,6 @@
 # **Splitter Alpha**
 
-Splitter Alpha is a Python application designed to separate datasets into training, validation, and test folders. It allows users to easily select data, specify split ratios, and organize files in designated folders. This application is built with Tkinter, providing a user-friendly GUI for convenient file separation and dataset preparation.
+Splitter Alpha is a Python application designed to separate datasets into training, validation, and test folders. It allows users to easily select data, specify split ratios, and organize files in designated folders. This application is built with Tkinter, providing a user-friendly GUI for convenient file separation and dataset preparation. Thanks to this application, you can bring your data to the desired format before deep learning after labelling your data in applications such as LabelImg.
 
 ![Ekran görüntüsü 2024-11-05 160944](https://github.com/user-attachments/assets/34c930e5-1baa-4b28-941a-c407088fdecf)
 
