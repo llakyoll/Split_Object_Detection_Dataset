@@ -43,6 +43,7 @@ Click the "Browse Files" button to choose a directory containing your images and
 
 **Adjust Ratios:** Use the slider to adjust the percentage split for training, validation, and test sets. Ensure the percentages sum to 100%.
 ![screenshot](https://drive.google.com/drive/u/1/folders/1c8BJx_6-xaG3imCU3xy8uyOzNvZW4W0J)
+
 **Start Separation:** Press the ‘Split Data’ button. Enter the name of the folder to split the data and press OK. That's it, your data will be split in the desired ratio.
 ![screenshot](https://drive.google.com/drive/u/1/folders/1c8BJx_6-xaG3imCU3xy8uyOzNvZW4W0J)
 ![screenshot](https://drive.google.com/drive/u/1/folders/1c8BJx_6-xaG3imCU3xy8uyOzNvZW4W0J)
@@ -67,4 +68,4 @@ shutil: Provides file operations to move and copy files across directories.
 
 My aim in the project is to complete my object recognition projects completely in my own computer environment and to protect my data.
 
-In the future, I will continue to include features such as data replication in my project and continue to develop this project. If you want to help, you can contact me at the following e-mail address. 
+In the future, I will continue to include features such as data replication in my project and continue to develop this project. If you want to help, you can contact me at the following e-mail address.
