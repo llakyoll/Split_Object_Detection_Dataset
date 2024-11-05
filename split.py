@@ -349,7 +349,7 @@ def copy_images():
 
 # Create a new Tkinter window
 window = Tk()
-icon = r"C:\Python\Split_Images_v1\logo.ico"  # Icon path
+icon = "dist/logo.ico"  # Icon path
 window.iconbitmap(icon)  # Add icon to window
 window.title('Splitter Alpha')  # Set the window title
 window.geometry("640x480")  # Set the window size
