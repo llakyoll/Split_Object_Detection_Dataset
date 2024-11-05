@@ -70,3 +70,10 @@ shutil: Provides file operations to move and copy files across directories.
 My aim in the project is to complete my object recognition projects completely in my own computer environment and to protect my data.
 
 In the future, I will continue to include features such as data replication in my project and continue to develop this project. If you want to help, you can contact me at the following e-mail address.
+
+-----
+**Contact**
+
+E-mail : ahmedakyll@gmail.com
+
+Linkedin : https://www.linkedin.com/in/ahmed-akyol-84766622b/
