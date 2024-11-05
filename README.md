@@ -2,7 +2,7 @@
 
 Splitter Alpha is a Python application designed to separate datasets into training, validation, and test folders. It allows users to easily select data, specify split ratios, and organize files in designated folders. This application is built with Tkinter, providing a user-friendly GUI for convenient file separation and dataset preparation.
 
-![Ekran görüntüsü 2024-11-05 161045](https://github.com/user-attachments/assets/9bb105ac-5ef1-44b0-becc-0a4ab1773da2)
+![Ekran görüntüsü 2024-11-05 160944](https://github.com/user-attachments/assets/34c930e5-1baa-4b28-941a-c407088fdecf)
 
 
 -----
@@ -42,11 +42,12 @@ Click the "Browse Files" button to choose a directory containing your images and
 
 
 **Adjust Ratios:** Use the slider to adjust the percentage split for training, validation, and test sets. Ensure the percentages sum to 100%.
-![screenshot](https://drive.google.com/drive/u/1/folders/1c8BJx_6-xaG3imCU3xy8uyOzNvZW4W0J)
+![a](https://github.com/user-attachments/assets/7db4fc4e-9187-44a9-a490-7939c70fce86)
 
 **Start Separation:** Press the ‘Split Data’ button. Enter the name of the folder to split the data and press OK. That's it, your data will be split in the desired ratio.
-![screenshot](https://drive.google.com/drive/u/1/folders/1c8BJx_6-xaG3imCU3xy8uyOzNvZW4W0J)
-![screenshot](https://drive.google.com/drive/u/1/folders/1c8BJx_6-xaG3imCU3xy8uyOzNvZW4W0J)
+
+![Ekran görüntüsü 2024-11-05 161032](https://github.com/user-attachments/assets/521ee914-7afd-4172-82ee-eab2b680e94b)
+![Ekran görüntüsü 2024-11-05 161045](https://github.com/user-attachments/assets/09dc80fa-4bc2-4c0e-90de-a9bcec84c02e)
 
 EXE File
 For users without Python installed, Splitter Alpha is available as an executable (.exe) file, enabling it to run independently. Just double-click the .exe file to start the application. No setup is required.
