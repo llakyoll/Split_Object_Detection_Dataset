@@ -343,9 +343,9 @@ def copy_images():
             img = rf'{test_data}'
             shutil.copy(img, test_path)
         messagebox.showinfo('Info', f'Your {img_count} images are separated!\n'
-                                    f'Train {int(img_count * train_rat)} images\n'
-                                    f'Validation {int(img_count * val_rat)} images\n'
-                                    f'Test {int(img_count * test_rat)} images ')
+                                    f'Train {int(img_count * train_rat)} images,\n'
+                                    f'Validation {int(img_count * val_rat)} images,\n'
+                                    f'Test {int(img_count * test_rat)} images. ')
     except TypeError:
         pass
 
